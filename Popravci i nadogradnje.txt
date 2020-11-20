@@ -1,0 +1,4 @@
+Skratiti naèin formatiranja ispisa poruka korisniku.
+Formatirati kod dodavanjem novih funkcija.
+Od funkcija koje su sliène napraviti jednu funkciju koja radi istu stvar kao i sliène odvojene funkcije.
+
